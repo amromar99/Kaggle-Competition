@@ -1,6 +1,8 @@
 # Kaggle-Competition
-Competition 1
-Competition 2:
+## Competition 1
+
+## Competition 2:
+
 **1-Problem Definition:** The project starts with defining the problem statement and goals, which in this case involves analyzing a dataset to predict product ratings.
 
 **2-Data Loading:** The training and testing data are loaded into the environment using Pandas from Google Drive, as the project is being conducted in Google Colab.
